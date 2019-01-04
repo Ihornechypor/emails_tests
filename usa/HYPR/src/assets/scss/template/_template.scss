@@ -49,7 +49,7 @@
 .thank-you-the-hypr {
   height: 34px;
   width: 88px;
-  color: #4A4A4A;
+  color: #4a4a4a;
   font-size: 12px;
   line-height: 17px;
   text-align: center;
@@ -82,22 +82,47 @@
       line-height: 0;
       visibility: hidden;
     }
+
     img.show__320 {
-      width:320px !important;
+      width: 320px !important;
       max-height: 106px !important;
       display: block !important;
       line-height: inherit !important;
       visibility: visible !important;
-
     }
   }
-  table.main{
-    width:291px!important;
-    table.small__text{
+
+  table.main {
+    width: 291px!important;
+
+    table.small__text {
       width: 280px !important;
     }
-    table.small__heading{
-      width:240px !important;
+
+    table.small__heading {
+      width: 240px !important;
+    }
+
+    table.a-post-on-your-campa {
+      font-size: 21px !important;
+      line-height: 21px !important;
+    }
+
+    table.it-may-not-be-ftc-co {
+      font-size: 12px !important;
+      line-height: 14px !important;
+    }
+
+    table.we-re-happy-to-infor {
+      font-size: 13px !important;
+      line-height: 20px !important;
+    }
+
+    table.please-notice-that-o {
+      padding: 13px 11px !important;
+      font-size: 12px !important;
+      line-height: 15px !important;
     }
   }
+
 }
